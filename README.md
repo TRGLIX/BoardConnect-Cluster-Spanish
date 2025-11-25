@@ -30,7 +30,7 @@ El sistema se conecta con la centralita mediante protocolo OBD-II (ELM327) y lee
 ---
 
 ## 📸 Vista previa
-
+ https://github.com/cyberpandino/cluster/raw/main/docs/images/dashboard-main.png
 ### Dashboard Principal
 
 El cuadro digital sustituye completamente el tablero analógico original con una interfaz moderna y personalizable.
