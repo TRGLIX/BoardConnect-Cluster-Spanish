@@ -1,4 +1,4 @@
-Perfecto 🙌. Aquí tienes el README traducido al español en formato Markdown limpio, listo para pegarlo en tu repositorio o documentación:
+
 # 🚗 Cyberpandino Cluster - PandaOS
 
 [![Licencia: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
