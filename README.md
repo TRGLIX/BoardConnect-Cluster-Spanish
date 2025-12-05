@@ -149,10 +149,7 @@ GPL v3.0 o posterior.
 
 ## 👥 Autores
 
-- **Matteo Errera**  
-- **Roberto Zaccardi**  
-- **Ludovico Verde**
-- **TRGLIX INC** 
+- **ChatGPT**
 
 ---
 
